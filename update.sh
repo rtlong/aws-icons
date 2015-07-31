@@ -98,7 +98,7 @@ rasterizeIcon './AWS_Simple_Icons_svg_eps/Database/SVG/Database_RDS SlaveSQL.svg
 rasterizeIcon './AWS_Simple_Icons_svg_eps/Deployment & Management/SVG/CodeDeploy.svg' icons/codedeploy.png
 rasterizeIcon './AWS_Simple_Icons_svg_eps/Deployment & Management/SVG/Deployment & Management_AWS CloudFormation Stack.svg'
 rasterizeIcon './AWS_Simple_Icons_svg_eps/Deployment & Management/SVG/Deployment & Management_AWS CloudFormation Template.svg'
-rasterizeIcon './AWS_Simple_Icons_svg_eps/Deployment & Management/SVG/Deployment & Management_AWS CloudFormation.svg'
+rasterizeIcon './AWS_Simple_Icons_svg_eps/Deployment & Management/SVG/Deployment & Management_AWS CloudFormation.svg' icons/cloudformation.png
 rasterizeIcon './AWS_Simple_Icons_svg_eps/Deployment & Management/SVG/Deployment & Management_AWS Data Pipeline.svg'
 rasterizeIcon './AWS_Simple_Icons_svg_eps/Deployment & Management/SVG/Deployment & Management_CloudTrail.svg' icons/cloudtrail.png
 rasterizeIcon './AWS_Simple_Icons_svg_eps/Deployment & Management/SVG/Deployment & Management_CloudWatch Alarm.svg'
